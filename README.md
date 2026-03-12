@@ -9,6 +9,6 @@
 
 ### Streamlit App for Generating QR Codes
 
-https://edallenappio-ayhz64kbjnpyparex89osh.streamlit.app/ 
+[Streamlit App](https://edallenappio-ayhz64kbjnpyparex89osh.streamlit.app/) 
 
-https://github.com/EmmaDAllen/qrcode_app 
+[Git repo](https://github.com/EmmaDAllen/qrcode_app) 
